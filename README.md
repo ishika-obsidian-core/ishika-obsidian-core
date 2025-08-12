@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=19&pause=1000&color=16AE05F6&background=35353500&width=435&lines=%3E+Hey+++I'm++Ishika+" alt="Typing SVG" /></a>
 <!-- Snake Game Repo View -->
 
 <div align="center">
